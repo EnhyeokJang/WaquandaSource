@@ -1,0 +1,3 @@
+// (c) Copyright Enhyeok Jang, Yonsei University, Seoul, Korea.
+You can calculate the Ry Gate variable for QRAM generation by manipulating the variable that means the address state or address qubits in the source code.
+
